@@ -1,0 +1,223 @@
+*, 
+html{
+    margin: 0%;
+    padding: 0%;
+}
+
+.CONTAINER-UTAMA{}
+ 
+.CONTAINER-NAVBAR{
+    background-color: #333;
+    width: 100%;
+    height: 15vh;
+}
+
+.UL-NAVBAR{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+    
+
+}
+
+.LI-NAVBAR{
+    list-style-type: none;
+    padding: 20px;
+    margin: 5px;
+    color:white;
+    font-size: 30px;
+
+}
+.LI-NAVBAR:hover{
+    background-color: rgb(117, 107, 107);
+    transition: .4s ease-in-out;
+    transition-delay: .2s;
+    border-radius: 8px;
+}
+.A-NAVBAR{
+    color: white;
+    text-decoration: none;
+
+}
+
+
+
+
+.CONTAINER-CONTENT1{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center; 
+    height: 75vh;
+    
+
+}
+.A-CONTENT{
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    height: 480px;
+    width: 720px;
+    align-items: center;
+    flex-direction: column;
+    text-decoration: none;
+    border border-radius: 80px;
+    font-size: 30px;
+    justify-content: space-evenly;
+
+
+   
+}
+
+.IMG-CONTENT1{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 250px;
+    align-items: center;
+
+
+}
+
+.CONTAINER-CONTENT2{
+    background-color: rgb(255, 255, 255);
+     width: 100%;
+     height: 70vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ 
+     
+
+}
+
+.A-CONTENT2{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.IMG-CONTENT2{
+    height: 100px;
+    width: 150px;
+    align-items: left;
+    background-color: rgb(117, 107, 107);
+    transition: .4s ease-in-out;
+    transition-delay: .2s;
+    border-radius: 8px;
+    color: black;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.A-CONTENT3{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.IMG-CONTENT3{    
+    height: 105px;
+    width: 120px;
+    background-color: rgb(117, 107, 107);
+    transition: .4s ease-in-out;
+    transition-delay: .2s;
+    border-radius: 8px;
+    color: black;
+    text-decoration: none;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+
+
+}
+
+.A-CONTENT4{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.IMG-CONTENT4{
+    height: 110px;
+    width: 11 0px;
+    background-color: rgb(117, 107, 107);
+    transition: .4s ease-in-out;
+    transition-delay: .2s;
+    border-radius: 8px;
+    color: black;
+    text-decoration: none; 
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+
+.CONTAINER-WAHTSAPP{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+
+}
+.WHATSAPP{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 75vh;
+  
+}
+
+.IMG-WHATSAPP{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(117, 107, 107);
+    transition: .4s ease-in-out;
+    transition-delay: .2s;
+    border-radius: 8px;
+    color: black;
+    text-decoration: none; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+      
+}
+
+.CONTAINER-FOOTER{
+    display: flex;
+    justify-content: center;
+    height: 15vh;
+    align-items: center;
+    color: white;
+}
+
+.H1-FOOTER{
+    background-color: #333;
+    width: 100%;
+    height: 100px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+     
+}
